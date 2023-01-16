@@ -1,0 +1,32 @@
+#searchBar {
+  width: 370px;
+  background-color: rgb(48, 162, 255);
+  padding: 5px 10px;
+  border-radius: 35px;
+}
+
+#itemSelect {
+  background-color: rgb(48, 162, 255);
+  color: white;
+  border: 0;
+  outline: none;
+}
+
+#itemSelect #selectItem:hover {
+  background-color: white;
+  color: black;
+  margin-top: 10px;
+}
+
+#search {
+  width: 230px;
+  height: 30px;
+  padding: 0px 15px;
+  border: 0;
+}
+
+#btnSearch {
+  color: white;
+  background-color: rgb(48, 162, 255);
+  border: 0;
+}
